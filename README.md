@@ -1,6 +1,21 @@
 # Loja de Acessórios Norte — Sistema Interno de Gestão
 
+![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-brightgreen)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+
 Sistema web interno para gestão de produtos, estoque e usuários da loja Acessórios Norte.
+
+---
+
+## Como rodar
+
+**Online:** 🔗 [Acessar o sistema](https://nicwxzz.github.io/loja-de-acessorios-norte)
+
+**Localmente:** baixe os arquivos e abra o `index.html` no navegador. Nenhuma instalação necessária.
+
+**Login de teste:**
+- Usuário: `Nicolas`
+- Senha: `123456`
 
 ---
 
@@ -9,12 +24,6 @@ Sistema web interno para gestão de produtos, estoque e usuários da loja Acess�
 - HTML5, CSS3, JavaScript (Vanilla)
 - LocalStorage para persistência de dados
 - jsPDF para exportação de relatórios
-
----
-
-## Como rodar
-
-🔗 **[Acessar o sistema](https://nicwxzz.github.io/loja-de-acessorios-norte)**
 
 ---
 
