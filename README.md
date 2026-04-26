@@ -14,9 +14,7 @@ Sistema web interno para gestão de produtos, estoque e usuários da loja Acess�
 
 ## Como rodar
 
-Basta abrir o arquivo `index.html` no navegador. Nenhuma instalação necessária.
-
-Deve primeiramente se cadastrar para conseguir acessar.
+🔗 **[Acessar o sistema](https://nicwxzz.github.io/loja-de-acessorios-norte)**
 
 ---
 
