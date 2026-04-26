@@ -39,7 +39,7 @@ Para ter acesso, é preciso se cadastrar primeiro e depois fazer o login.
 
 ---
 
-## Roadmap — Próximas funcionalidades
+## Roadmap
 
 ### Gestão de Estoque
 
