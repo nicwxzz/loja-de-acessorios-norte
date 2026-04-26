@@ -9,13 +9,11 @@ Sistema web interno para gestão de produtos, estoque e usuários da loja Acess�
 
 ## Como rodar
 
-**Online:** 🔗 [Acessar o sistema](https://nicwxzz.github.io/loja-de-acessorios-norte)
+**Online:** [Acessar o sistema](https://nicwxzz.github.io/loja-de-acessorios-norte)
 
 **Localmente:** baixe os arquivos e abra o `index.html` no navegador. Nenhuma instalação necessária.
 
-**Login de teste:**
-- Usuário: `Nicolas`
-- Senha: `123456`
+Para ter acesso, é preciso se cadastrar primeiro e depois fazer o login.
 
 ---
 
