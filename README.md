@@ -1,4 +1,4 @@
-# Loja de Acessórios Norte — Sistema Interno de Gestão
+# Sistema Interno de Gestão
 
 ![GitHub Pages](https://img.shields.io/badge/deploy-GitHub%20Pages-brightgreen)
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
