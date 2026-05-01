@@ -43,7 +43,7 @@ Para ter acesso, é preciso se cadastrar primeiro e depois fazer o login.
 
 ### Relatórios mais completos
 
-- [ ] **Gráfico de estoque por categoria** — visualização em barras ou pizza
+- [ ] **Gráfico de estoque por categoria** - visualização em barras ou pizza
 - [ ] **Exportação em Excel (.xlsx)** além do PDF já existente
 
 ### Produtos mais detalhados
@@ -52,13 +52,13 @@ Para ter acesso, é preciso se cadastrar primeiro e depois fazer o login.
 
 ### Funcionalidades operacionais
 
-- [ ] **Registro de vendas** — dar baixa automática no estoque ao registrar uma venda
-- [ ] **Histórico de vendas por período** — relatório de saídas com filtro de data
+- [ ] **Registro de vendas** - dar baixa automática no estoque ao registrar uma venda
+- [ ] **Histórico de vendas por período** - relatório de saídas com filtro de data
 
 ### Melhorias no sistema
 
 - [ ] **Recuperação de senha** para usuários que esqueceram o acesso
-- [ ] **Log de atividades por usuário** — quem fez o quê e quando em todo o sistema
+- [ ] **Log de atividades por usuário** - quem fez o quê e quando em todo o sistema
 
 ---
 
