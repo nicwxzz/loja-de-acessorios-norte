@@ -41,35 +41,24 @@ Para ter acesso, é preciso se cadastrar primeiro e depois fazer o login.
 
 ## Roadmap
 
-### Gestão de Estoque
-
-- [ ] **Alerta automático por e-mail ou notificação** quando um produto cai abaixo do mínimo
-- [ ] **Histórico de movimentações** — registrar quem adicionou, editou ou removeu cada produto e quando
-- [ ] **Quantidade mínima por produto** — hoje é fixo em 5 para todos; permitir definir individualmente
-
 ### Relatórios mais completos
 
 - [ ] **Gráfico de estoque por categoria** — visualização em barras ou pizza
-- [ ] **Relatório de produtos com estoque crítico** separado dos demais
 - [ ] **Exportação em Excel (.xlsx)** além do PDF já existente
 
 ### Produtos mais detalhados
 
-- [ ] **Campo de descrição/observação** por produto
-- [ ] **Foto do produto** — upload e visualização na tabela
 - [ ] **Código de barras ou SKU** para facilitar busca e identificação
 
 ### Funcionalidades operacionais
 
 - [ ] **Registro de vendas** — dar baixa automática no estoque ao registrar uma venda
 - [ ] **Histórico de vendas por período** — relatório de saídas com filtro de data
-- [ ] **Controle de fornecedores** — vincular fornecedor a cada produto com preço de custo
 
 ### Melhorias no sistema
 
 - [ ] **Recuperação de senha** para usuários que esqueceram o acesso
 - [ ] **Log de atividades por usuário** — quem fez o quê e quando em todo o sistema
-- [ ] **Modo de impressão** da tabela de produtos otimizado para papel
 
 ---
 
